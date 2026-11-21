@@ -17,6 +17,7 @@ Six pins are not enough, so here goes everything...
 
 | Project | Language | What it is |
 |---|---|---|
+| [TempSweeper](https://github.com/MobiusDevelopment/TempSweeper) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) | Windows utility for previewing and removing old temp files. |
 | [LocalAgentOffice](https://github.com/PantelisAndrianakis/LocalAgentOffice) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | A small pixel office run by local models through Ollama, or even paid models. |
 | [BOFAD](https://github.com/PantelisAndrianakis/BOFAD) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Coding style and thinking discipline for AI coding agents. |
 | [Breezy](https://github.com/PantelisAndrianakis/Breezy) | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) | Statically typed, object oriented language that compiles straight to native x86-64. |
